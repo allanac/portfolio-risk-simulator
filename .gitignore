@@ -1,0 +1,20 @@
+# Do not track system or OneDrive paths
+/mnt/c/Users/allana/OneDrive*/
+
+/mnt/c/Users/allana/OneDrive/Documents/Private*/
+
+# Do not track environment files
+.env
+*.env
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Output files (optional)
+outputs/*
+
