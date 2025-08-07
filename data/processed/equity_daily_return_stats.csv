@@ -1,0 +1,5 @@
+,Volatility,Skewness,Kurtosis,Type
+AAPL,0.0185,0.4253,6.9738,Equity
+MSFT,0.0173,0.1537,3.1365,Equity
+GOOGL,0.02,0.0366,3.4173,Equity
+EPD,0.0117,-0.4038,3.527,Equity

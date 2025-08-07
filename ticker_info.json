@@ -1,0 +1,30 @@
+{
+    "AAPL": {
+        "type": "equity",
+        "pays_dividend": true
+    },
+    "MSFT": {
+        "type": "equity",
+        "pays_dividend": true
+    },
+    "GOOGL": {
+        "type": "equity",
+        "pays_dividend": true
+    },
+    "TLT": {
+        "type": "etf",
+        "pays_dividend": true
+    },
+    "XLE": {
+        "type": "etf",
+        "pays_dividend": true
+    },
+    "EPD": {
+        "type": "equity",
+        "pays_dividend": true
+    },
+    "BTC-USD": {
+        "type": "crypto",
+        "pays_dividend": false
+    }
+}
