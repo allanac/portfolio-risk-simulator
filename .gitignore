@@ -6,6 +6,7 @@
 # Do not track environment files
 .env
 *.env
+venv/
 
 # Python cache and logs
 __pycache__/
@@ -18,3 +19,4 @@ __pycache__/
 # Output files (optional)
 outputs/*
 
+.DS_Store
